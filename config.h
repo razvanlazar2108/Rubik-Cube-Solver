@@ -26,7 +26,4 @@
 #define STEP_M5     PC1
 #define STEP_M6     PC2
 
-// Adresă I2C unică pentru senzorii de culoare TCS34725
-#define TCS34725_ADDR   0x29
-
 #endif /* CONFIG_H_ */
